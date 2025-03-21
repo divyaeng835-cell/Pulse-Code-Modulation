@@ -73,4 +73,4 @@ plt.show()
 ## OUTPUT WAVEFORM:
 ![image](https://github.com/user-attachments/assets/9ed68b98-9daf-4b0e-8f3e-71c97f7a5fe2)
 ## RESULT:
-Pulse Code Modulation forthe given using python are verified
+Pulse Code Modulation for the given signal using python are verified
